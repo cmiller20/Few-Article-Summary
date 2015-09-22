@@ -1,0 +1,31 @@
+---
+title: "Few Summary"
+author: "Cade Miller"
+date: "September 22, 2015"
+output: pdf_document
+---
+
+  There are two main objectives that this paper will address: Match your message to the right type of display and Design each component of your graphs so the data speaks clearly and the most important data speaks loudly. They start out right away by showing an example of a good looking graphic that is essentially unnecessary. This graphic compares different qualifications that potential candidates have and plots them to give them a visual representation. This however is not necessary. Sometimes a table displaying the data will suffice. A main focus point when creating a visual is to make sure that it is the right fit for the data and the particular purpose. 
+
+
+  Within this paper, Few discusses a sequence of decisions that must come together, one at a time. These steps are:
+
+  1.	Determine your message and identify the data necessary to communicate it. 
+  2.	Determine if a table, graph, or combination of both is needed to communicate your message. 
+  3.	Determine the best means to encode the values. 
+  4.	Determine where to display each variable. 
+  5.	Determine the best design for the remaining objects. 
+  6.	Determine if particular data should be featured above the rest, and if so, how. 
+
+
+After going through these steps, Few starts to get into some general concepts that are helpful to know before actually making the graph. There is first the debate whether to use a table or a graph to display the data. While neither are necessarily better than the other, they are simply different with different strengths and applications. The next step is to determine the different types of data being presented; quantitative or categorical. Categorical can be further broken down into nominal, ordinal, and interval. Quantitative can also be broken down into having seven different types of relationships: time-series, ranking, part-to-whole, deviation, distribution, correlation, and nominal comparison. Four types of objects work best for encoding quantitative values in graphs: points, lines, bars, and boxes. 
+
+
+Now comes the process of actually determining what type of graph will best describe your data most effectively. It could be a table, a graph, or even a table. Will the data be used to look up and compare individual values, or will the data need to be precise? If so, you should display it in a table. “Is the message contained in the shape of the data—in trends, patterns, exceptions, or comparisons that involve more than a few values? If so, you should display it in a graph. If you need to do some of both, then display the data in both ways: in a table and in a graph” (Few 14). Few then lays out a table that is very helpful in choosing what visual is best to display the data. 
+
+
+A common misconception is that the graph solely depends on the data and that is what makes or breaks a graph. This could not be farther from the truth. It is the remaining elements besides the data that also play a crucial role. These elements include, but are not limited to, the scale, axis titles, and the legend. Placement is a huge key for all of these elements. What side should the axis be on? What should the range be? What descriptive text is needed? Is there a particular piece of data that should stand out from the others? These are just a couple questions that need to be asked when creating a graph.
+
+
+In conclusion, a graph or visual should not only be appealing but it needs to tell a story. What should a person be getting out of looking at this graph? “Whenever you create a graph, you have a choice to make—to communicate or not. That’s what it all comes down to. If you have something important to say, then say it clearly and accurately” (Few 20). 
+
